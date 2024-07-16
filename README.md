@@ -1,10 +1,11 @@
 
-![31](https://github.com/user-attachments/assets/fd379bbe-df50-4c07-bfc3-60bd3cfb061d) 
+![вф](https://github.com/user-attachments/assets/758aa005-8d21-42ee-9fc1-5591cf9b6bec)
 
 
 
 
-# dancer_discord
+
+
 
 ## Addition 1.1
 > [!NOTE]
